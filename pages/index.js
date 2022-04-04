@@ -19,7 +19,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          The best space jelly swag on the web! 
+          The best space jelly swag in the universe! 
         </p>
 
         <ul className={styles.grid}>
